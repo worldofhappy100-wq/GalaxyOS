@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "tasks",
+      "version": "1.0.0",
+      "name": "Tasks",
+      "description": "View, focus and restart running windows.",
+      "icon": "tasks",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 1684,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 1684,
+          "sha256": "efed8851d731759720ce0f5a082899bb723e32c0c4cbedbb3ad467e63f17f738",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/tasks/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "devices",
+      "version": "1.0.0",
+      "name": "Device Manager",
+      "description": "Peripheral diagram and Minecraft / Create controls.",
+      "icon": "devices",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 9625,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 9625,
+          "sha256": "12646c04ee3901b1d0b18cdf3e7539ad0582355e0f4b28ee5f5e310c905fecf8",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/devices/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "network",
+      "version": "1.0.0",
+      "name": "Network",
+      "description": "Find Galaxy computers, send files and join rooms.",
+      "icon": "network",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 3159,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 3159,
+          "sha256": "b7ae3833247943d69541228b268b8bee0c613e43dbcad4018b1a3374891fb1ce",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/network/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "version": "1.0.0",
+      "name": "Games",
+      "description": "Launch installed arcade games locally or over rednet.",
+      "icon": "games",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 18474,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 18474,
+          "sha256": "847fe79281aaf0681a8667a59aa68045117b036937d33404f94835728b443213",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/games/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "navigation",
+      "version": "1.0.0",
+      "name": "Navigation",
+      "description": "GPS, coordinates, saved waypoints and a zoomable map.",
+      "icon": "navigation",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 5822,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 5822,
+          "sha256": "0d7fe5af9f83f1db25ac66d05e197a2dd131bf67f5dd93db84c528f1e49c7aaf",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/navigation/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "robotics",
+      "version": "1.0.0",
+      "name": "Robotics",
+      "description": "Discover and operate paired Minecraft turtles.",
+      "icon": "robotics",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 11673,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 4465,
+          "sha256": "915be1e3d127ce16b026983191a37a96817ddfb430c864c7dc7b6ee35c858e16",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/main.lua"
+        },
+        {
+          "path": "protocol.lua",
+          "bytes": 1825,
+          "sha256": "9aafe9e2022a0067e915b5b47427727bad98a1bfd12fa12bbb9aafa629edeb64",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/protocol.lua"
+        },
+        {
+          "path": "sha256.lua",
+          "bytes": 2429,
+          "sha256": "c08637cdeacb2b2c959056174b00074253854b89a2f0fad61f5ca88cef87ab87",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/sha256.lua"
+        },
+        {
+          "path": "turtle_client.lua",
+          "bytes": 2954,
+          "sha256": "d3213ef6f40e3a43070e04c1cd711f13e9aa3dc644ffb7c0643f1629ce176b36",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/turtle_client.lua"
+        }
+      ]
+    },
+    {
+      "id": "paint",
+      "version": "1.0.1",
+      "name": "Paint",
+      "description": "Edit and save sixteen-color pixel drawings.",
+      "icon": "paint",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 7493,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 7493,
+          "sha256": "4568d052a33fae684cae26b8c8b498d32a3e6407da791e0bf5862d69ed0e9b76",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/paint/1.0.1/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "version": "1.0.0",
+      "name": "Gallery",
+      "description": "Browse saved drawings and set an image as wallpaper.",
+      "icon": "gallery",
+      "category": "apps",
+      "kind": "app",
+      "dependencies": [],
+      "bytes": 1979,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 1979,
+          "sha256": "6452596c317eed3dbe90cfa63fe41acf1a92ed31c058669544ce82e63746dd30",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/gallery/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "game2048",
+      "version": "1.0.0",
+      "name": "2048",
+      "description": "Combine tiles in the classic four-by-four puzzle.",
+      "icon": "games",
+      "category": "games",
+      "kind": "engine",
+      "dependencies": [
+        {
+          "id": "games",
+          "version": "1.0.0"
+        }
+      ],
+      "bytes": 2857,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 2857,
+          "sha256": "297b1d9dd51cde3a1ed05a03eb1ba5ec74ee3b85424c33fb096bd82ba54d095f",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/game2048/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "minesweeper",
+      "version": "1.0.0",
+      "name": "Minesweeper",
+      "description": "Find safe cells and mark the hidden mines.",
+      "icon": "games",
+      "category": "games",
+      "kind": "engine",
+      "dependencies": [
+        {
+          "id": "games",
+          "version": "1.0.0"
+        }
+      ],
+      "bytes": 3308,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 3308,
+          "sha256": "94f10878816e296fb1020b96e924065b69b0eecb0cfd47c7b1fca4e2f897a16f",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/minesweeper/1.0.0/main.lua"
+        }
+      ]
+    },
+    {
+      "id": "breakout",
+      "version": "1.0.0",
+      "name": "Breakout",
+      "description": "Clear bricks with the paddle and ball.",
+      "icon": "games",
+      "category": "games",
+      "kind": "engine",
+      "dependencies": [
+        {
+          "id": "games",
+          "version": "1.0.0"
+        }
+      ],
+      "bytes": 6639,
+      "files": [
+        {
+          "path": "main.lua",
+          "bytes": 6639,
+          "sha256": "3ad5927ad0edefce528b1c9f53cb6ca677ae0a8174ef817f0809c73be411c71b",
+          "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/breakout/1.0.0/main.lua"
+        }
+      ]
+    }
+  ]
+}

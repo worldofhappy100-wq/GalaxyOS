@@ -1,0 +1,19 @@
+{
+  "id": "paint",
+  "version": "1.0.1",
+  "name": "Paint",
+  "description": "Edit and save sixteen-color pixel drawings.",
+  "icon": "paint",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 7493,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 7493,
+      "sha256": "4568d052a33fae684cae26b8c8b498d32a3e6407da791e0bf5862d69ed0e9b76",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/paint/1.0.1/main.lua"
+    }
+  ]
+}
