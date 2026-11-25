@@ -1,0 +1,37 @@
+{
+  "id": "robotics",
+  "version": "1.0.0",
+  "name": "Robotics",
+  "description": "Discover and operate paired Minecraft turtles.",
+  "icon": "robotics",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 11673,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 4465,
+      "sha256": "915be1e3d127ce16b026983191a37a96817ddfb430c864c7dc7b6ee35c858e16",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/main.lua"
+    },
+    {
+      "path": "protocol.lua",
+      "bytes": 1825,
+      "sha256": "9aafe9e2022a0067e915b5b47427727bad98a1bfd12fa12bbb9aafa629edeb64",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/protocol.lua"
+    },
+    {
+      "path": "sha256.lua",
+      "bytes": 2429,
+      "sha256": "c08637cdeacb2b2c959056174b00074253854b89a2f0fad61f5ca88cef87ab87",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/sha256.lua"
+    },
+    {
+      "path": "turtle_client.lua",
+      "bytes": 2954,
+      "sha256": "d3213ef6f40e3a43070e04c1cd711f13e9aa3dc644ffb7c0643f1629ce176b36",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/robotics/1.0.0/turtle_client.lua"
+    }
+  ]
+}

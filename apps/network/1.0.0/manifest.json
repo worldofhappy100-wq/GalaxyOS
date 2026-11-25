@@ -1,0 +1,19 @@
+{
+  "id": "network",
+  "version": "1.0.0",
+  "name": "Network",
+  "description": "Find Galaxy computers, send files and join rooms.",
+  "icon": "network",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 3159,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 3159,
+      "sha256": "b7ae3833247943d69541228b268b8bee0c613e43dbcad4018b1a3374891fb1ce",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/network/1.0.0/main.lua"
+    }
+  ]
+}

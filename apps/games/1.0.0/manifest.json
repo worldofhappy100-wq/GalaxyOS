@@ -1,0 +1,19 @@
+{
+  "id": "games",
+  "version": "1.0.0",
+  "name": "Games",
+  "description": "Launch installed arcade games locally or over rednet.",
+  "icon": "games",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 18474,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 18474,
+      "sha256": "847fe79281aaf0681a8667a59aa68045117b036937d33404f94835728b443213",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/games/1.0.0/main.lua"
+    }
+  ]
+}

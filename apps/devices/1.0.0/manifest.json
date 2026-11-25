@@ -1,0 +1,19 @@
+{
+  "id": "devices",
+  "version": "1.0.0",
+  "name": "Device Manager",
+  "description": "Peripheral diagram and Minecraft / Create controls.",
+  "icon": "devices",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 9625,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 9625,
+      "sha256": "12646c04ee3901b1d0b18cdf3e7539ad0582355e0f4b28ee5f5e310c905fecf8",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/devices/1.0.0/main.lua"
+    }
+  ]
+}

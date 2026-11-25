@@ -1,0 +1,19 @@
+{
+  "id": "navigation",
+  "version": "1.0.0",
+  "name": "Navigation",
+  "description": "GPS, coordinates, saved waypoints and a zoomable map.",
+  "icon": "navigation",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 5822,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 5822,
+      "sha256": "0d7fe5af9f83f1db25ac66d05e197a2dd131bf67f5dd93db84c528f1e49c7aaf",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/navigation/1.0.0/main.lua"
+    }
+  ]
+}

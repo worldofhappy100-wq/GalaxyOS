@@ -1,0 +1,19 @@
+{
+  "id": "tasks",
+  "version": "1.0.0",
+  "name": "Tasks",
+  "description": "View, focus and restart running windows.",
+  "icon": "tasks",
+  "category": "apps",
+  "kind": "app",
+  "dependencies": [],
+  "bytes": 1684,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 1684,
+      "sha256": "efed8851d731759720ce0f5a082899bb723e32c0c4cbedbb3ad467e63f17f738",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/apps/tasks/1.0.0/main.lua"
+    }
+  ]
+}
