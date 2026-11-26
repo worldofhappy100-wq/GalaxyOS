@@ -1,0 +1,30 @@
+{
+  "id": "blockfall",
+  "version": "1.0.0",
+  "name": "Blockfall",
+  "description": "A falling-block puzzle with seven pieces, hold, a landing preview and chain scoring.",
+  "icon": "games",
+  "category": "games",
+  "kind": "engine",
+  "dependencies": [
+    {
+      "id": "games",
+      "version": "1.1.0"
+    }
+  ],
+  "bytes": 6075,
+  "files": [
+    {
+      "path": "logic.lua",
+      "bytes": 4528,
+      "sha256": "090ed87a42afc7d18a7963af178c261ac5d5a23a4ed3dd5c27d349207479bd5b",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/blockfall/1.0.0/logic.lua"
+    },
+    {
+      "path": "main.lua",
+      "bytes": 1547,
+      "sha256": "b0ee3ea34fbb476492795c354e846b41b6c1048cc8a54d8a82e029547e8009f0",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/blockfall/1.0.0/main.lua"
+    }
+  ]
+}

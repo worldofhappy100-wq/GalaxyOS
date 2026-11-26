@@ -1,0 +1,30 @@
+{
+  "id": "tanks",
+  "version": "1.0.0",
+  "name": "Tanks",
+  "description": "Defend a base in original pixel maps or fight waves in Survival.",
+  "icon": "games",
+  "category": "games",
+  "kind": "engine",
+  "dependencies": [
+    {
+      "id": "games",
+      "version": "1.1.0"
+    }
+  ],
+  "bytes": 11631,
+  "files": [
+    {
+      "path": "logic.lua",
+      "bytes": 9346,
+      "sha256": "7985dd768f89d7379c5832d42fdae6c60847db57e38188a5203a1bd7a8017ec6",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/tanks/1.0.0/logic.lua"
+    },
+    {
+      "path": "main.lua",
+      "bytes": 2285,
+      "sha256": "3b52f2fe4f57c0943891b035d31ba8152e93d36a28e701ca2675798fb737fcec",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/tanks/1.0.0/main.lua"
+    }
+  ]
+}
