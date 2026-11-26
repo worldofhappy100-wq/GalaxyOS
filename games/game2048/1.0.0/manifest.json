@@ -1,0 +1,24 @@
+{
+  "id": "game2048",
+  "version": "1.0.0",
+  "name": "2048",
+  "description": "Combine tiles in the classic four-by-four puzzle.",
+  "icon": "games",
+  "category": "games",
+  "kind": "engine",
+  "dependencies": [
+    {
+      "id": "games",
+      "version": "1.0.0"
+    }
+  ],
+  "bytes": 2857,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 2857,
+      "sha256": "297b1d9dd51cde3a1ed05a03eb1ba5ec74ee3b85424c33fb096bd82ba54d095f",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/game2048/1.0.0/main.lua"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "breakout",
+  "version": "1.0.0",
+  "name": "Breakout",
+  "description": "Clear bricks with the paddle and ball.",
+  "icon": "games",
+  "category": "games",
+  "kind": "engine",
+  "dependencies": [
+    {
+      "id": "games",
+      "version": "1.0.0"
+    }
+  ],
+  "bytes": 6639,
+  "files": [
+    {
+      "path": "main.lua",
+      "bytes": 6639,
+      "sha256": "3ad5927ad0edefce528b1c9f53cb6ca677ae0a8174ef817f0809c73be411c71b",
+      "url": "https://raw.githubusercontent.com/worldofhappy100-wq/GalaxyOS/main/games/breakout/1.0.0/main.lua"
+    }
+  ]
+}
